@@ -1,6 +1,6 @@
 [
   {
-    "email": "ana@example.com",
+    "email": "ana.souza@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "email": "joao@example.com",
+    "email": "joao.silva@example.com",
     "workouts": [
       {
         "reps": 12,
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "email": "maria@example.com",
+    "email": "maria.oliveira@example.com",
     "workouts": [
       {
         "reps": 15,
@@ -39,7 +39,7 @@
     ]
   },
   {
-    "email": "user1@example.com",
+    "email": "lucas.pereira@example.com",
     "workouts": [
       {
         "reps": 8,
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "email": "user2@example.com",
+    "email": "fernanda.costa@example.com",
     "workouts": [
       {
         "reps": 9,
@@ -65,7 +65,7 @@
     ]
   },
   {
-    "email": "user3@example.com",
+    "email": "bruno.almeida@example.com",
     "workouts": [
       {
         "reps": 20,
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "email": "user4@example.com",
+    "email": "juliana.martins@example.com",
     "workouts": [
       {
         "reps": 15,
@@ -91,7 +91,7 @@
     ]
   },
   {
-    "email": "user5@example.com",
+    "email": "rafael.lima@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "email": "user6@example.com",
+    "email": "camila.ramos@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -117,7 +117,7 @@
     ]
   },
   {
-    "email": "user7@example.com",
+    "email": "pedro.gomes@example.com",
     "workouts": [
       {
         "reps": 9,
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "email": "user8@example.com",
+    "email": "isabela.fernandes@example.com",
     "workouts": [
       {
         "reps": 19,
@@ -143,7 +143,7 @@
     ]
   },
   {
-    "email": "user9@example.com",
+    "email": "gustavo.rodrigues@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -156,7 +156,7 @@
     ]
   },
   {
-    "email": "user10@example.com",
+    "email": "patricia.melo@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -169,7 +169,7 @@
     ]
   },
   {
-    "email": "user11@example.com",
+    "email": "andre.santos@example.com",
     "workouts": [
       {
         "reps": 15,
@@ -182,7 +182,7 @@
     ]
   },
   {
-    "email": "user12@example.com",
+    "email": "carolina.barros@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "email": "user13@example.com",
+    "email": "vinicius.freitas@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -208,7 +208,7 @@
     ]
   },
   {
-    "email": "user14@example.com",
+    "email": "aline.teixeira@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "email": "user15@example.com",
+    "email": "daniel.moura@example.com",
     "workouts": [
       {
         "reps": 8,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "email": "user16@example.com",
+    "email": "leticia.cardoso@example.com",
     "workouts": [
       {
         "reps": 13,
@@ -247,7 +247,7 @@
     ]
   },
   {
-    "email": "user17@example.com",
+    "email": "eduardo.araujo@example.com",
     "workouts": [
       {
         "reps": 14,
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "email": "user18@example.com",
+    "email": "mariana.silveira@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "email": "user19@example.com",
+    "email": "felipe.pinto@example.com",
     "workouts": [
       {
         "reps": 13,
@@ -286,7 +286,7 @@
     ]
   },
   {
-    "email": "user20@example.com",
+    "email": "roberta.machado@example.com",
     "workouts": [
       {
         "reps": 17,
@@ -299,7 +299,7 @@
     ]
   },
   {
-    "email": "user21@example.com",
+    "email": "thiago.borges@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "email": "user22@example.com",
+    "email": "gabriela.souza@example.com",
     "workouts": [
       {
         "reps": 20,
@@ -325,7 +325,7 @@
     ]
   },
   {
-    "email": "user23@example.com",
+    "email": "rodrigo.cavalcante@example.com",
     "workouts": [
       {
         "reps": 17,
@@ -338,7 +338,7 @@
     ]
   },
   {
-    "email": "user24@example.com",
+    "email": "sabrina.farias@example.com",
     "workouts": [
       {
         "reps": 19,
@@ -351,7 +351,7 @@
     ]
   },
   {
-    "email": "user25@example.com",
+    "email": "alexandre.monteiro@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -364,7 +364,7 @@
     ]
   },
   {
-    "email": "user26@example.com",
+    "email": "beatriz.nunes@example.com",
     "workouts": [
       {
         "reps": 9,
@@ -377,7 +377,7 @@
     ]
   },
   {
-    "email": "user27@example.com",
+    "email": "renato.paiva@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -390,7 +390,7 @@
     ]
   },
   {
-    "email": "user28@example.com",
+    "email": "luana.campos@example.com",
     "workouts": [
       {
         "reps": 15,
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "email": "user29@example.com",
+    "email": "diego.simoes@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -416,7 +416,7 @@
     ]
   },
   {
-    "email": "user30@example.com",
+    "email": "tatiane.azevedo@example.com",
     "workouts": [
       {
         "reps": 20,
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "email": "user31@example.com",
+    "email": "carlos.vieira@example.com",
     "workouts": [
       {
         "reps": 14,
@@ -442,7 +442,7 @@
     ]
   },
   {
-    "email": "user32@example.com",
+    "email": "simone.batista@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -455,7 +455,7 @@
     ]
   },
   {
-    "email": "user33@example.com",
+    "email": "jorge.mendes@example.com",
     "workouts": [
       {
         "reps": 13,
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "email": "user34@example.com",
+    "email": "eliane.santana@example.com",
     "workouts": [
       {
         "reps": 17,
@@ -481,7 +481,7 @@
     ]
   },
   {
-    "email": "user35@example.com",
+    "email": "ricardo.torres@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "email": "user36@example.com",
+    "email": "priscila.miranda@example.com",
     "workouts": [
       {
         "reps": 13,
@@ -507,7 +507,7 @@
     ]
   },
   {
-    "email": "user37@example.com",
+    "email": "marco.antonio@example.com",
     "workouts": [
       {
         "reps": 12,
@@ -520,7 +520,7 @@
     ]
   },
   {
-    "email": "user38@example.com",
+    "email": "aline.macedo@example.com",
     "workouts": [
       {
         "reps": 8,
@@ -533,7 +533,7 @@
     ]
   },
   {
-    "email": "user39@example.com",
+    "email": "daniela.queiroz@example.com",
     "workouts": [
       {
         "reps": 10,
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "email": "user40@example.com",
+    "email": "antonio.souza@example.com",
     "workouts": [
       {
         "reps": 19,
@@ -559,7 +559,7 @@
     ]
   },
   {
-    "email": "user41@example.com",
+    "email": "luiz.correia@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "email": "user42@example.com",
+    "email": "monica.esteves@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -585,7 +585,7 @@
     ]
   },
   {
-    "email": "user43@example.com",
+    "email": "claudia.moraes@example.com",
     "workouts": [
       {
         "reps": 11,
@@ -598,7 +598,7 @@
     ]
   },
   {
-    "email": "user44@example.com",
+    "email": "sergio.fonseca@example.com",
     "workouts": [
       {
         "reps": 12,
@@ -611,7 +611,7 @@
     ]
   },
   {
-    "email": "user45@example.com",
+    "email": "adriana.ferreira@example.com",
     "workouts": [
       {
         "reps": 14,
@@ -624,7 +624,7 @@
     ]
   },
   {
-    "email": "user46@example.com",
+    "email": "paulo.ribeiro@example.com",
     "workouts": [
       {
         "reps": 9,
@@ -637,7 +637,7 @@
     ]
   },
   {
-    "email": "user47@example.com",
+    "email": "sueli.magalhaes@example.com",
     "workouts": [
       {
         "reps": 9,
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "email": "user48@example.com",
+    "email": "marcio.garcia@example.com",
     "workouts": [
       {
         "reps": 15,
@@ -663,7 +663,7 @@
     ]
   },
   {
-    "email": "user49@example.com",
+    "email": "viviane.leite@example.com",
     "workouts": [
       {
         "reps": 18,
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "email": "user50@example.com",
+    "email": "cristiano.barbosa@example.com",
     "workouts": [
       {
         "reps": 13,
